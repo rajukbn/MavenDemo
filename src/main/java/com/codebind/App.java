@@ -4,4 +4,7 @@ public class App {
   public String test(){
     return "Welcom to maven demo";
   }
+  public String stringtest(){
+    return "Welcom to maven demo1";
+  }
 }
