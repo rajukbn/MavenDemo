@@ -3,6 +3,7 @@ package com.codebind;
 import static org.junit.Assert.*;
 
 public class AppTest {
+    @org.junit.Test
     public void stringtest() throws Exception {
         App ap=new App();
         assertEquals("Welcom to mavendemo",ap.stringtest());
