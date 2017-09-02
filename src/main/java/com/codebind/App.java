@@ -5,6 +5,6 @@ public class App {
     return "Welcom to maven Demo";
   }
   public String stringtest(){
-    return "Welcom to maven demo1";
+    return "Welcom to mavendemo";
   }
 }
