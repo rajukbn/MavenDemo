@@ -10,7 +10,7 @@ public class AppTest {
     @org.junit.Test
     public void test1() throws Exception {
         App ap=new App();
-        assertEquals("Welcom to maven demo",ap.test());
+        assertEquals("Welcom to maven Demo",ap.test());
     }
 
 }
