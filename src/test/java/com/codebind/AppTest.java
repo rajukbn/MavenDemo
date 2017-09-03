@@ -13,5 +13,10 @@ public class AppTest {
         App ap=new App();
         assertEquals("Welcom to maven Demo",ap.test());
     }
+    @org.junit.Test
+    public void souji() throws Exception {
+        App ap=new App();
+        assertEquals("Welcom to souji",ap.souji());
+    }
 
 }
