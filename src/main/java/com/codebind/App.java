@@ -7,4 +7,7 @@ public class App {
   public String stringtest(){
     return "Welcom to mavendemo";
   }
+  public String souji(){
+    return "Welcom to souji";
+  }
 }
